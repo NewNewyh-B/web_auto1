@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Aug 08 15:29:59 CST 2024","Thu Aug 08 15:29:59 CST 2024","0","testcases","test_page1","TestCases","","","test_1","
+        验证有效地用户名和密码成功登录系统
+        "
+"passed","Mon Apr 04 21:09:12 CST 2022","Mon Apr 04 21:09:14 CST 2022","1969","testcases","test_page1","TestCases","","","test_1","
+        验证有效地用户名和密码成功登录系统
+        "

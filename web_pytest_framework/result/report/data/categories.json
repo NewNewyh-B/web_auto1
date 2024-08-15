@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of Microsoft Edge WebDriver only supports Microsoft Edge version 125\nCurrent browser version is 127.0.2651.86 with binary path C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe\nStacktrace:\n\tGetHandleVerifier [0x00007FF70F6E5DC2+61250]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF70F6706C9+206985]\n\t(No symbol) [0x00007FF70F47E3C7]\n\t(No symbol) [0x00007FF70F4B681F]\n\t(No symbol) [0x00007FF70F4B5CD8]\n\t(No symbol) [0x00007FF70F4B0360]\n\t(No symbol) [0x00007FF70F4ACDE7]\n\t(No symbol) [0x00007FF70F4EE9DC]\n\t(No symbol) [0x00007FF70F4E4563]\n\t(No symbol) [0x00007FF70F4B9FCE]\n\t(No symbol) [0x00007FF70F4B918C]\n\t(No symbol) [0x00007FF70F4B9B81]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF70F89DF54+1072532]\n\t(No symbol) [0x00007FF70F532D9C]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF70F5DEF4C+51468]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF70F5D3805+4549]\n\tMicrosoft::Applications::Events::EventProperty::to_string [0x00007FF70F89CF15+1068373]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF70F67A0D1+246417]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF70F675434+226804]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF70F67556B+227115]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF70F66BD60+188192]\n\tBaseThreadInitThunk [0x00007FFAC5717374+20]\n\tRtlUserThreadStart [0x00007FFAC771CC91+33]",
+      "children" : [ {
+        "name" : "test_1",
+        "uid" : "ae482f97147e0564",
+        "parentUid" : "ccaf448ef2ae125271ccafd625c9fcc1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1723102199998,
+          "stop" : 1723102199998,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ccaf448ef2ae125271ccafd625c9fcc1"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
